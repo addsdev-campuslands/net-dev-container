@@ -50,6 +50,9 @@ cd MyApp
 dotnet run
 ```
 
+### Flujo de Trabajo con Dev Container
+![](https://code.visualstudio.com/assets/docs/devcontainers/create-dev-container/container-edit-loop.png)
+
 ---
 
 ## 🗃️ Base de Datos PostgreSQL

@@ -11,7 +11,7 @@ services:
 
     command: sleep infinity
 
-    network_mode: service:db
+    network_mode: service:pg-db
     
   pg-db:
     image: postgres:14.3
